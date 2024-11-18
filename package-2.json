@@ -1,0 +1,23 @@
+{
+  "name": "bsw100-001-blue",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueShadow22/Packages_Test.git"
+  },
+  "keywords": [
+    "Test",
+    "Tutorial"
+  ],
+  "author": "Blue Shadow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueShadow22/Packages_Test/issues"
+  },
+  "homepage": "https://github.com/BlueShadow22/Packages_Test#readme"
+}
