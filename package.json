@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlueShadowTestingCorp/Public.git"
+    "url": "git+https://github.com/blueshadowtestingcorp/public.git"
   },
   "publishConfig": {
   "registry": "https://npm.pkg.github.com"
@@ -20,7 +20,7 @@
   "author": "Blue Shadow",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BlueShadowTestingCorp/Public/issues"
+    "url": "https://github.com/blueshadowtestingcorp/public/issues"
   },
-  "homepage": "https://github.com/BlueShadowTestingCorp/Public#readme"
+  "homepage": "https://github.com/blueshadowtestingcorp/public#readme"
 }
